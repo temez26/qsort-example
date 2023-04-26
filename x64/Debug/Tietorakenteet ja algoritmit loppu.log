@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\temek\source\repos\Tietorakenteet ja algoritmit loppu\Tietorakenteet ja algoritmit loppu\Main.cpp(70,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tietorakenteet ja algoritmit loppu.vcxproj -> C:\Users\temek\source\repos\Tietorakenteet ja algoritmit loppu\x64\Debug\Tietorakenteet ja algoritmit loppu.exe

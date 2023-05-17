@@ -1,5 +1,5 @@
 
-# Hybrid Sorting Algorithm
+# Sorting Algorithm
 
 This C++ code implements a hybrid sorting algorithm that combines quicksort and insertion sort.
 
